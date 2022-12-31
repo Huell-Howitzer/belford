@@ -1,0 +1,15 @@
+= Belford
+Ryan M. Howell <rmhowell@protonmail.com>
+:toc: left
+
+[IMPORTANT]
+.TODO
+====
+. "Cite" Yahoo Finance Python Package
+====
+
+== About
+
+
+== Contact
+Contact mailto:{email}[{firstname} {lastname}]
